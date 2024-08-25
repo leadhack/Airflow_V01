@@ -1,0 +1,30 @@
+body {
+    background-color: #fafafa;
+}
+
+
+/* Style pour le titre du menu */
+.sidebar-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #4CAF50; /* Couleur verte */
+    margin-bottom: 20px;
+}
+
+/* Style pour les options du menu */
+.sidebar-radio .stRadio > div {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.sidebar-radio label {
+    font-size: 24px;
+    color: #333; /* Couleur texte */
+}
+
+/* Effet survol */
+.sidebar-radio .stRadio > div:hover {
+    background-color: #e0e0e0;
+}
